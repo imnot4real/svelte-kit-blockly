@@ -1,4 +1,3 @@
-[Home](../README.md)
 
 # blockly-svelte-sample [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
