@@ -22,7 +22,7 @@
     "build": "rollup -c",
     "build:watch": "rollup -c -w",
     "start": "run-p build:watch serve",
-    "serve": "sirv public --single --dev --port 4006",
+    "serve": "sirv public --single --dev --port 3000",
     "publish": "sirv public --single"
   }
 }
